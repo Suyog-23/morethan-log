@@ -4,8 +4,8 @@ const CONFIG = {
     name: "Suyog Savalkar",
     image: "/avatar.svg", // If you want to create your own notion avatar, check out https://notion-avatar.vercel.app
     role: "",
-    bio: "Let's build for the future.",
-    email: "suyog231002@gmail.com",
+    bio: "Building the future.",
+    email: "suyog.insty@gmail.com",
     linkedin: "suyog-savalkar",
     github: "",
     instagram: "",
@@ -14,7 +14,15 @@ const CONFIG = {
     {
       name: `Comet`,
       href: "https://cometlifestyle.club",
+    },    
+    {
+      name: `Currsive`,
+      href: "https://www.producthunt.com/products/currsive#currsive",
     },
+    {
+      name: `OffTrack VC`,
+      href: "https://www.producthunt.com/products/offtrack#offtrack",
+    }
   ],
   // blog setting (required)
   blog: {
